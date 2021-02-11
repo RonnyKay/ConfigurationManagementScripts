@@ -1,1 +1,1 @@
-echo “BuggggggggBugggggg“
+echo $env:P1
