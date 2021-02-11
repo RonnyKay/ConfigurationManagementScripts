@@ -1,1 +1,1 @@
-echo $env:P1
+echo $env:Parameter1
